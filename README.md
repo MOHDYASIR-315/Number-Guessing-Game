@@ -80,7 +80,7 @@ git clone https://github.com/MOHDYASIR-315/Number-Guessing-Game.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd number-guessing-game
+cd Number-Guessing-Game
 ```
 
 ### 3. Run the Program
